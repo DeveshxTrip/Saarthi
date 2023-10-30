@@ -16,6 +16,7 @@ import Dashboard from './Components/Dashboard/Dashboard'
 import Waiting from './Components/Waiting/Waiting';
 import Patientinfo from './Components/Patientinfo/Patientinfo';
 import Message from './Components/Message/Message';
+import DriverDetails from './Components/Dashboard/DriverDetails';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -31,6 +32,7 @@ root.render(
         <Route path='/login' element={<Login/>}/>
         <Route path='/register' element={<Register/>}/>
         <Route path='/waiting' element={<Waiting/>}/>
+        <Route path='/driver' element={<DriverDetails/>}/>
         <Route path='/patientinfo/:pid' element={<Patientinfo/>}/>
 
 

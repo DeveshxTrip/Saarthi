@@ -75,6 +75,7 @@ function Ambulance() {
           </select></p>
 
         <p><button onClick={() => { deleteUser(user.id); }} className='delete-btn'> Delete </button></p>
+        <Link to="/driver"><button type='accept-btn'> Details</button> </Link>
         {/* <p><Link to={`/patientinfo/${user.id}`}> <button className='accept-btn'>{user.name}</button> </Link></p> */}
 
       </div>))}

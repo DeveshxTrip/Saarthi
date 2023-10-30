@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "name": "amit",
+      "phone": "989624272",
+      "Location": "Nehru Nagar",
+      "type": "basic"
+    },
+    {
+      "name": "vidu pidu",
+      "phone": "985383528",
+      "Location": "Shastri Nagar",
+      "type": "ICU"
+    },
+    {
+      "name": "Aviral",
+      "phone": "987654321",
+      "Location": "Golf Links",
+      "type": "ICU"
+    }
+  ]
+  }
