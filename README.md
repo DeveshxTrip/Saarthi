@@ -6,7 +6,7 @@ All the booking requests can be seen at "Driver Dashboard"
 
 ## Setting Up 
 
-1. Clone the project using `git clone https://github.com/Keshav-0907/saarthi` in the terminal 
+1. Clone the project using `git clone https://github.com/DeveshxTrip/saarthi` in the terminal 
 2. Install the required npm dependenices using `npm install`
 3. Run the project on http://localhost:3000 using `npm start`
 
