@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Saarthi 
 
 Saarthi is a an ambulance booking and tracking system designed to provide first-point medical attention to patients. It works as a bridge between the ambulance driver and patient(or his guardian) by removing any middle-men in between. 
@@ -15,3 +16,6 @@ All the booking requests can be seen at "Driver Dashboard"
 Username : devesh@g.com </br>
 password : 123456
 
+=======
+# Saarthi
+>>>>>>> 7bf5d82dbf71ce196c7988a56c19f3c00deb095b
