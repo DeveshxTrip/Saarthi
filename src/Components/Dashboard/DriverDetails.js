@@ -5,7 +5,7 @@ import { useState, useEffect } from 'react';
 import { collection, getDocs, deleteDoc, doc } from "firebase/firestore"
 
 
-const DriverDetails = () => {
+const DriverDetails = (user) => {
     
     return(
      <div>
