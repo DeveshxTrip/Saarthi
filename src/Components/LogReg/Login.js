@@ -59,7 +59,7 @@ const Login = () => {
               <><p>Please Proced to the Dashboard</p><Link to='/dashboard'> <button className='dashboard-btn'> <img className='dash-pic' src='https://cdn-icons-png.flaticon.com/512/3408/3408591.png' alt=''></img>  Driver Dashboard</button>  </Link></>
               
             ) : (
-              <><p> Username : keshav@gmail.com </p><p> Password : 123456 </p></>
+              <><p> Username : devesh@g.com </p><p> Password : 123456 </p></>
             )}
           </div>
 
